@@ -1,7 +1,7 @@
 # Bem-vindo ao perfil do Otávio Profeta!
 
 ## Sobre Mim
-Olá! Sou o Otávio, um entusiasta de desenvolvimento web com experiência em HTML, CSS, Bootstrap, PHP, JavaScript, Python e UX/UI design formado no Instituto Federal de Goiás (IFG) em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS 2023). Além disso, tenho conhecimentos em MSI/EXE Packaging. Fora da programação, sou músico e gamer, buscando sempre integrar minhas paixões com meu trabalho.
+Olá! Sou o Otávio, um entusiasta de desenvolvimento web com experiência em HTML, CSS, Bootstrap, PHP, JavaScript, Python e UX/UI design formado no Instituto Federal de Goiás (IFG) em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS 2023). Além disso, tenho conhecimentos em MSI/EXE Packaging (Empacotamento de Softwares) com [Inno Setup](https://jrsoftware.org/isinfo.php) e [Advanced Installer](https://www.advancedinstaller.com/). Fora da programação, sou músico e gamer, buscando sempre integrar minhas paixões com meu trabalho.
 
 ## Projetos Destacados
 ### Projeto de TCC: [Descubra Seu Temperamento](https://github.com/OtavioProfeta/TCC_TADS_2023)
