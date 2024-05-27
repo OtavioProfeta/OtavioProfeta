@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte do meu trabalho de conclusão de curso 
 Meu objetivo aqui no GitHub é conectar-me com outros profissionais da área, compartilhar meus projetos e aprender com a comunidade.
 
 ## Contato
-- LinkedIn: [Zotano](https://www.linkedin.com/in/otavio-profeta/)
+- LinkedIn: [Otávio Profeta](https://www.linkedin.com/in/otavio-profeta/)
 - Email: otavioprofeta48@gmail.com
 
 ###
